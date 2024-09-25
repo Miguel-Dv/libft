@@ -1,0 +1,7 @@
+*.swp
+*.swo
+a.out
+test*.c
+includes/
+srcs/
+git*
